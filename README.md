@@ -87,5 +87,8 @@ The SARIMAX(1,1,2)(0,0,2,6) model outperformed the ARIMA(1,1,1) model significan
 
 ![image](https://github.com/YogenderS/Infosys-Stock-Time-Series-Analysis/assets/111232917/b224e08d-aa59-4699-acec-53048383ce7a)
 
-Link 
+Link Profile
+linkedin.com/in/yogendersingh-iit
+Website
+github.com/YogenderS?tab=repositories (Personal)
 
